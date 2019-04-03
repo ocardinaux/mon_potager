@@ -28,3 +28,4 @@
 /congig/database.yml
 .env
 .DS_Store
+/.vscode/*
